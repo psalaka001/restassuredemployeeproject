@@ -1,0 +1,2 @@
+cd C:\Users\phursh01\eclipse-workspace\RestassuredAPITesting_Employee_Project>
+mvn clean install
